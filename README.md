@@ -12,7 +12,9 @@ Group Members:
 Description:
 Analysis of dog names over time.
 
-Link to Documentation/Presentation shared file: https://1drv.ms/p/s!AizRm4gxoaBTgY5u-IAKeyTZ346PHg?e=u03llt
+Links for Team Collaboration Documentation:
+- Project Proposal and Day 1 Summary: https://1drv.ms/w/s!AizRm4gxoaBTgY5xoTJ8QsmVQ5aicw?e=CxIjIg
+- Draft Presentation shared file: https://1drv.ms/p/s!AizRm4gxoaBTgY5u-IAKeyTZ346PHg?e=u03llt
 
 Source Data Links/Resources: 
 - NYC Dog Licensing Dataset (https://data.cityofnewyork.us/Health/NYC-Dog-Licensing-Dataset/nu7n-tubp/data)
