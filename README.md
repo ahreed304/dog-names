@@ -1,4 +1,15 @@
+Group Three Project:
 # dog-names
+
+Group Members:
+-Emma Dublin
+-Pamela Fernandez
+-Brenna Kelly
+-Liz Gomez
+-Austin Reed
+
+
+Description:
 Analysis of dog names over time.
 
 Link to Documentation/Presentation shared file: https://1drv.ms/p/s!AizRm4gxoaBTgY5u-IAKeyTZ346PHg?e=u03llt
